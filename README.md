@@ -1,4 +1,4 @@
-# cs109_final_project
+# What makes a playlist popular?
 
 Music plays an important role in the real life, and recommending suitable and popular playlists to users becomes a struggle for some music apps. Some previous articles had already come up with several models but the results were all not satisfying, so how to evaluate the popularity of a playlist remains unsolved. We aim to find out what makes a playlist popular and predicts the next hit focusing on data collected by Spotify.
 
